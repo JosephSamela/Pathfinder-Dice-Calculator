@@ -1,5 +1,4 @@
 # Pathfinder Dice Calculator
-![DiceCalculator](graphics/featuregraphic.png?raw=true "Dice Calculator")
 Math is hard. Use a calculator.
 
 # What is this app?
