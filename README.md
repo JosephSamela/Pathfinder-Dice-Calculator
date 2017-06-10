@@ -7,7 +7,7 @@ When you're DM for a party of 10 in combat with 25 NPCs each moving and attackin
 
 Don't get me wrong I love the analog experience of good old-fashion dice rolls and tracking stats with paper and clipboard. But sometimes this slows us down -- the 3 hour campaign reaches hour 6. It's 1am. Todd can't roll dice without dropping them. Speed up the game. More adventure. More exploration. Better stories.
 
-<img src="graphics/Screenshot2.png" width="48%">  <img src="graphics/Screenshot3.png" width="48%">
+<img src="graphics/Screenshot2.png" width="48%">    <img src="graphics/Screenshot3.png" width="48%">
 
 ![DiceCalculator](graphics/Screenshot5.png?raw=true "Dice Calculator")
 
