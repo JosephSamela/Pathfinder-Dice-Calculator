@@ -12,7 +12,10 @@ Don't get me wrong I love the analog experience of good old-fashion dice rolls a
 
 # Download Links
 Windows
-Coming soon...
+Check the "Builds" folder
+
+Linux
+Check the "Builds" folder
 
 MacOS
 Coming soon...
