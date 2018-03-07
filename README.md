@@ -11,14 +11,14 @@ Don't get me wrong I love the analog experience of good old-fashion dice rolls a
 ![DiceCalculator](graphics/Screenshot5.png?raw=true "Dice Calculator")
 
 # Download Links
-Windows
+**Windows**
 Check the "Builds" folder
 
-Linux
+**Linux**
 Check the "Builds" folder
 
-MacOS
+**MacOS**
 Coming soon...
 
-Android
+**Android**
 https://play.google.com/store/apps/details?id=processing.test.dice_calculator
