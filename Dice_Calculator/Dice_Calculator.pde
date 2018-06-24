@@ -5,15 +5,16 @@ float buttonHeight = 100;
 String[] names1 = {"D20", "D10", "D6", "D3", "+1"};
 String[] names2 = {"D12", "D8", "D4", "x2", "-1"};
 
-
-// ########################### ENABLE FOR ANDROID ################################
+// ######### ENABLE FOR ANDROID ###########
 import android.app.Activity;
 import android.view.WindowManager;
 import android.view.View;
 import android.os.*;
+ 
 Activity act;
 View decorView;
 int uiOptions;
+ 
 @ Override
 public void onCreate(Bundle savedInstanceState) {
   super.onCreate(savedInstanceState);
@@ -23,16 +24,17 @@ public void onCreate(Bundle savedInstanceState) {
   act.getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
   decorView.setSystemUiVisibility(uiOptions);
 }
-float padding = height*0.1;
+
+float padding = 25;
 float outputwindowheight = 50;
 void setup() { 
-  fullScreen();
-  // size(720, 1280);
-  
+  //fullScreen();
+  //size(720, 1280);
+  size(displayWidth, displayHeight);
   f = createFont("Roboto-Black.ttf", 72);
   textFont(f);
 }
-// ########################### ENABLE FOR ANDROID ################################
+// ########### ENABLE FOR ANDROID ###########
 
 
 // ########################### ENABLE FOR DESKTOP ################################
@@ -83,7 +85,7 @@ void draw() {
    textAlign(LEFT, TOP);
    textSize(outputwindowheight*5);
    fill(0);
-   text(total, padding*3, padding*4);
+   text(total, padding, padding);
    
    //Draw History Text
    textAlign(LEFT);
@@ -94,8 +96,8 @@ void draw() {
    //Draw Clear Text
    textAlign(RIGHT, TOP);
    fill(150);
-   textSize(outputwindowheight*1.5); 
-   text("CLEAR", width-padding,padding);
+   textSize(outputwindowheight); 
+   text("CLEAR", width-padding, padding);
 }
 
 void mousePressed() {

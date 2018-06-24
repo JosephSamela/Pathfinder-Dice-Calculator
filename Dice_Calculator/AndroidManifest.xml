@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="2.0" package="dicecalculator">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="2.0" package="processing.test.dice_calculator">
     <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="26"/>
-    <application android:icon="@drawable/icon" android:label="d20">
+    <application android:icon="@drawable/icon" android:label="Dice Calculator">
         <activity android:name=".MainActivity" android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
