@@ -12,13 +12,19 @@ Don't get me wrong I love the analog experience of good old-fashion dice rolls a
 
 # Download Links
 **Windows**
-Check the "Builds" folder
+
+https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
 
 **Linux**
-Check the "Builds" folder
+
+https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
 
 **MacOS**
+
 Coming soon...
 
 **Android**
-https://play.google.com/store/apps/details?id=processing.test.dice_calculator
+
+v1.0 https://play.google.com/store/apps/details?id=processing.test.dice_calculator
+
+v2.0 https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
