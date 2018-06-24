@@ -1,4 +1,4 @@
-# Pathfinder Dice Calculator
+# Dice Calculator
 Math is hard. Use a calculator.
 
 # What is this app?
