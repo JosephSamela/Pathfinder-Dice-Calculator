@@ -10,21 +10,9 @@ Don't get me wrong I love the analog experience of good old-fashion dice rolls a
 
 ![DiceCalculator](graphics/Screenshot5.png?raw=true "Dice Calculator")
 
-# Download Links
-**Windows**
+# Download
 
-https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
+[Downloads for Windows, Linux, MacOS and Android. ](https://github.com/JosephSamela/dice-calculator/releases)
 
-**Linux**
-
-https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
-
-**MacOS**
-
-Coming soon...
-
-**Android**
-
-v1.0 https://play.google.com/store/apps/details?id=processing.test.dice_calculator
-
-v2.0 https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases
+**Note!** Andorid [v1.0 is available on the Google Play Store](https://play.google.com/store/apps/details?id=processing.test.dice_calculator).
+Android [v2.0 is only available as an APK](https://github.com/JosephSamela/Pathfinder-Dice-Calculator/releases).
